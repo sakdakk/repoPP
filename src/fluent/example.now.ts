@@ -4,7 +4,7 @@ import { showStateUpdate } from '../server/script'
 // creates a client script that pops up 'Table loaded successfully!!' message every time todo record is loaded
 ClientScript({
     $id: Now.ID['cs0'],
-    name: 'sakshi1P_client_script',
+    name: 'sakshi1P_client_script2',
     table: 'incident',
     active: true,
     applies_extended: false,
