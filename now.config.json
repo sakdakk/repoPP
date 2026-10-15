@@ -1,0 +1,6 @@
+{
+    "scope": "x_snc_sakshi1p",
+    "scopeId": "6d2cdff33bf34310cf5ceac643e45a31",
+    "name": "sakshi1P",
+    "tsconfigPath": "./src/server/tsconfig.json"
+}
